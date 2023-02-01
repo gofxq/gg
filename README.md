@@ -1,0 +1,2 @@
+# gg
+go generic utils
